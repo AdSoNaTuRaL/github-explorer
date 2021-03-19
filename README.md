@@ -43,4 +43,4 @@ Access API at http://localhost:3000/
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Github-explorer](https://github.com/AdSoNaTuRaL/github-explorer/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+Feel free to **create a new issue** with a respective title and description on the [Github-explorer](https://github.com/AdSoNaTuRaL/github-explorer/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
