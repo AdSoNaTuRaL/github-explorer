@@ -2,13 +2,8 @@
    <img src="https://user-images.githubusercontent.com/26275918/91858858-0868dd00-ec6a-11ea-81ca-bc9c8154e476.png" alt="Proffy" width="280"/>
 </p>
 
-> :rocket: Project made to list repositories and useful information from them, made in Bootcamp GoStack @Rocketseat
+<h4 align="center">:rocket: Project made to list repositories and useful information from them</h4>
 
-<div align="center">
-  <sub>Built with ❤︎ by
-    <a href="https://github.com/AdSoNaTuRaL">Adson Henrique</a>
-  </sub>
-</div>
 
 ### Web Screenshot
 <div>
